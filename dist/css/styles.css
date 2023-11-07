@@ -11555,12 +11555,12 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: #9e1ef3;
-  background: linear-gradient(135deg, #9e1ef3 0%, #f3b01e 100%);
+  background: #6600fe;
+  background: linear-gradient(135deg, #6600fe 0%, #f3b01e 100%);
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(315deg, #9e1ef3 0%, #f3b01e 100%);
+  background: -webkit-linear-gradient(315deg, #6600fe 0%, #f3b01e 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -11582,7 +11582,7 @@ html {
   position: relative;
   height: 75vw;
   width: 75vw;
-  border-radius: 5vw;
+  border-radius: 20vw;
   margin-top: 5vw;
   max-height: 40rem;
   max-width: 40rem;
